@@ -1,2 +1,3 @@
 # ML_Supervised_Classification
-Classification Modeling Case Study
+
+Machine Learning Classification Modeling Case Study (Supervised)
